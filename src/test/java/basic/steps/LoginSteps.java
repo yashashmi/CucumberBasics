@@ -1,4 +1,4 @@
-package Steps;
+package basic.steps;
 
 import io.cucumber.java.en.*;
 import org.junit.*;
